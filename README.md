@@ -54,5 +54,5 @@ I need to not be afraid when it comes to trying things I haven't before. This pr
 
 ## Author
 
-- Website - [Jarol](https://www.your-site.com)
+- Website - [News Homepage](https://mirrorinstinct.github.io/news-homepage/)
 - Frontend Mentor - [@MirrorInstinct](https://www.frontendmentor.io/profile/MirrorInstinct)
